@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Quiz App</string>-->
+
+    <string name="question1">1. Which country is not in africa ?</string>
+    <string name="question1_choice1">KENYA</string>
+    <string name="question1_choice2">NIGERIA</string>
+    <string name="question1_choice3">IRAN</string>
+
+    <string name="question2">2. How many times can you subtract 2 from 100?</string>
+
+    <string name="question3">3.Which one of the following is a fruit?.</string>
+    <string name="question3_choice1">Mango</string>
+    <string name="question3_choice2">Potatoes</string>
+    <string name="question3_choice3">Cassava</string>
+
+    <string name="question4">4. One of the following is a natural source of light except?</string>
+    <string name="question4_choice1">Sun</string>
+    <string name="question4_choice2">Electric bulb</string>
+
+    <string name="question5">5.Solve the following problem.( 5+3 )</string>
+    <string name="question5_choice1">8</string>
+    <string name="question5_choice2">5</string>
+    <string name="question5_choice3">6</string>
+    <string name="question5_choice4">0</string>
+    <string name="welcome1">....Welcome to Quiz App....</string>
+    <string name="welcome2">....Easy and Fun....</string>
+    <string name="submit_answers">Submit Your Answer</string>
+
+    <string name="answer1"> answer: IRAN</string>
+    <string name="answer2"> answer: 1</string>
+    <string name="answer3"> answer: Mango</string>
+    <string name="answer4"> answer: Electric bulb</string>
+    <string name="answer5"> answer: 8</string>
+
+
+</resources>
